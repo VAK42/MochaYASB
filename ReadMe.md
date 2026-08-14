@@ -1,6 +1,6 @@
 # YASB Catppuccin Mocha
 
-A Clean & Minimal YASB Theme Inspired By The Catppuccin Mocha Color Palette Focusing On A Calm Dark Aesthetic With Subtle Accents + Simple Layouts & A Distraction-Free Desktop Experience
+A Clean + Minimal YASB Theme Inspired By The Catppuccin Mocha Color Palette Focusing On A Calm Dark Aesthetic With Subtle Accents + Simple Layouts + A Distraction-Free Desktop Experience
 
 ![YASB Catppuccin Mocha](./_.png)
 
@@ -17,13 +17,6 @@ A Clean & Minimal YASB Theme Inspired By The Catppuccin Mocha Color Palette Focu
 2. Copy `config.yaml` + `styles.css` Into Your YASB Configuration Directory
 3. Reload YASB
 4. If You Use GlazeWM → Make Sure It Is Running For The Workspace Widgets To Work Correctly
-
-## Theme Structure
-```
-MochaYASB/
-├── config.yaml
-├── styles.css
-```
 
 ## Features
 
